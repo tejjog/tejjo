@@ -11,6 +11,6 @@ improvement. Exceptional communicator with a track record of aligning IT
 initiatives with business objectives
 
 # **Technical Skills**
-Azure Cloud : SCCM
+Azure Cloud : SCCM : Intune : Windows Defender : Office 365 : VMware vSphere : VDI : Application Packaging : 
 
 
