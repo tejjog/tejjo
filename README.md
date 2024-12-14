@@ -9,3 +9,10 @@ effectively collaborating with global teams to deliver innovative IT solutions.
 Adept at troubleshooting complex technical issues and committed to continuous 
 improvement. Exceptional communicator with a track record of aligning IT 
 initiatives with business objectives
+
+Technical Skills
+
+Azure Cloud
+SCCM
+
+
