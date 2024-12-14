@@ -1,4 +1,4 @@
-Profile
+#Profile
 
 Results-driven and certified Microsoft Engineer with comprehensive experience in 
 Azure Cloud services, Windows Server technologies, and both desktop and server 
@@ -10,7 +10,7 @@ Adept at troubleshooting complex technical issues and committed to continuous
 improvement. Exceptional communicator with a track record of aligning IT 
 initiatives with business objectives
 
-Technical Skills
+##Technical Skills
 
 Azure Cloud
 SCCM
